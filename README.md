@@ -1,6 +1,6 @@
-# MetaMask Test Dapp
+# Storc simple Dapp
 
-This is a simple test dapp for use in MetaMask e2e tests and manual QA.
+This is a simple dapp tailored for wrapping and unwrapping via metamask.
 
 Currently hosted [here](https://metamask.github.io/test-dapp/).
 
